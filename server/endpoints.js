@@ -1,0 +1,1 @@
+export const GET_PRODUCTS = "https://localhost:5000/goods/zara"
